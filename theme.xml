@@ -447,9 +447,9 @@
     <variant name="withVideos">
         <view name="gamelist">
             <video name="gameVideo">
-                <pos>0.2 0</pos>
+                <pos>0.3 0</pos>
                 <origin>0 0</origin>
-                <cropSize>0.6 0.63</cropSize>
+                <cropSize>0.425 0.63</cropSize>
                 <scrollFadeIn>true</scrollFadeIn>
                 <imageType>screenshot, titlescreen</imageType>
                 <zIndex>6</zIndex>
@@ -460,9 +460,9 @@
     <variant name="withoutVideos">
         <view name="gamelist">
             <image name="gameImage">
-                <pos>0.2 0</pos>
+                <pos>0.3 0</pos>
                 <origin>0 0</origin>
-                <cropSize>0.6 0.63</cropSize>
+                <cropSize>0.425 0.63</cropSize>
                 <scrollFadeIn>true</scrollFadeIn>
                 <imageType>screenshot, titlescreen</imageType>
                 <zIndex>6</zIndex>
